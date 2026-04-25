@@ -7,6 +7,28 @@ The project focuses on clean UI, API integration, responsive design and a polish
 
 https://prime-goods-shop.netlify.app/
 
+## Screenshots
+
+### Home Page
+
+![Home Page](./screenshots/home.png)
+
+### Products Overview
+
+![Products Page](./screenshots/products.png)
+
+### Product Details
+
+![Product Details](./screenshots/product-detail.png)
+
+### Filtering & Search
+
+![Filtering](./screenshots/filtering.png)
+
+### Error State
+
+![Error State](./screenshots/error.png)
+
 ## About the Project
 
 PrimeGoods is a frontend web app that displays products from an external API.  
@@ -48,16 +70,16 @@ https://fakestoreapi.com/products
 Used endpoints:
 
 GET /products  
-GET /products/:id  
+GET /products/:id
 
 ## Project Structure
 
 src/
-  components/
-  layouts/
-  services/
-  App.jsx
-  main.jsx
+components/
+layouts/
+services/
+App.jsx
+main.jsx
 
 ## Future Improvements
 
@@ -70,10 +92,10 @@ src/
 
 ## Installation
 
-git clone https://github.com/your-username/prime-goods.git  
+git clone https://github.com/Bennyam/prime-goods.git
 cd prime-goods  
 npm install  
-npm run dev  
+npm run dev
 
 ## Build
 
